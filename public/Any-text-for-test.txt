@@ -3,13 +3,13 @@ Fullcycle - Fullstack+infra
 
 Stack Overflow
 Codigo Fonte YT
+w3school.net
 
 Low language
-Machine Coding são os códigos binários
+Machine Coding are binary codes
 
 High language
 Java, JavaScript, Python, PHP, etc
-
 
 ISP - Internet Service Provider (Operadoras: Claro, Oi, Vivo, etc)
 

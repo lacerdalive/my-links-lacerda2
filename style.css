@@ -5,15 +5,22 @@
 body {   background-color: black;
 }
 
-img {border-radius:20px;
+img {border-radius:100%;
 width: 320px;
 height: 320px;
 }
-h1 { color: yellowgreen;
+
+h1 { color: limegreen;
 margin-top: 31px;
 margin-bottom: 8px;
 }
-p {color:blueviolet;
+
+h2 { color: limegreen;
+    margin-top: 31px;
+    margin-bottom: 8px;
+}
+
+p {color: yellowgreen;
 }
 
 ul {margin-top: 35px;
@@ -31,7 +38,8 @@ border-radius: 6px;
 }
 
 a:hover {background-color: lightskyblue;
-    color: black;    }
+    color: black;
+}
 
 footer {color: silver;
 
@@ -44,3 +52,4 @@ footer {color: silver;
     margin-left: auto;
     margin-right: auto;
 }
+
